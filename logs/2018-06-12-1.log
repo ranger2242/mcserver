@@ -1,0 +1,13 @@
+[12:25:03] [Server thread/INFO]: Loading properties
+[12:25:04] [Server thread/INFO]: Default game type: SURVIVAL
+[12:25:04] [Server thread/INFO]: Generating keypair
+[12:25:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:25:04] [Server thread/INFO]: Using default channel type
+[12:25:04] [Server thread/INFO]: Preparing level "world"
+[12:25:04] [Server thread/INFO]: Loaded 488 advancements
+[12:25:04] [Server thread/INFO]: Preparing start region for level 0
+[12:25:05] [Server thread/INFO]: Preparing spawn area: 60%
+[12:25:06] [Server thread/INFO]: Done (1.846s)! For help, type "help" or "?"
+[12:26:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a7324fc[id=<null>,name=jpcrat,properties={},legacy=false] (/127.0.0.1:51565) lost connection: Disconnected
+[12:26:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@172967e8[id=<null>,name=jpcrat,properties={},legacy=false] (/127.0.0.1:51566) lost connection: Disconnected
+[21:43:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 33426428ms behind, skipping 668528 tick(s)
