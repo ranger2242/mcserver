@@ -1,31 +1,40 @@
-[00:01:35] [Server thread/INFO]: [esaenz28: Set the time to 4]
-[00:09:05] [User Authenticator #19/INFO]: UUID of player Scrubadive is 3e46acac-901d-40ca-a36c-2da27d1866da
-[00:09:05] [Server thread/INFO]: Scrubadive[/25.10.228.222:52644] logged in with entity id 594861 at (-80.4014521098014, 105.0, 245.30000001192093)
-[00:09:05] [Server thread/INFO]: Scrubadive joined the game
-[00:10:02] [Server thread/INFO]: Scrubadive was slain by Enderman
-[00:10:38] [Server thread/INFO]: Scrubadive lost connection: Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine
-[00:10:38] [Server thread/INFO]: Scrubadive left the game
-[00:11:12] [User Authenticator #20/INFO]: UUID of player Scrubadive is 3e46acac-901d-40ca-a36c-2da27d1866da
-[00:11:12] [Server thread/INFO]: Scrubadive[/25.10.228.222:52717] logged in with entity id 601783 at (104.28043243831382, 71.0, 217.2263412005036)
-[00:11:12] [Server thread/INFO]: Scrubadive joined the game
-[00:11:58] [Server thread/INFO]: [esaenz28: Teleported Scrubadive to esaenz28]
-[00:12:15] [Server thread/INFO]: [esaenz28: Set the time to 4]
-[00:12:23] [Server thread/INFO]: Scrubadive lost connection: Disconnected
-[00:12:23] [Server thread/INFO]: Scrubadive left the game
-[00:15:59] [Server thread/INFO]: glsaenz lost connection: Disconnected
-[00:15:59] [Server thread/INFO]: glsaenz left the game
-[00:16:04] [Server thread/INFO]: esaenz28 lost connection: Disconnected
-[00:16:04] [Server thread/INFO]: esaenz28 left the game
-[00:16:20] [Server thread/INFO]: Stopping the server
-[00:16:20] [Server thread/INFO]: Stopping server
-[00:16:20] [Server thread/INFO]: Saving players
-[00:16:20] [Server thread/INFO]: Saving worlds
-[00:16:20] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[00:16:21] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[00:16:21] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[00:16:21] [Server Shutdown Thread/INFO]: Stopping server
-[00:16:21] [Server Shutdown Thread/INFO]: Saving players
-[00:16:21] [Server Shutdown Thread/INFO]: Saving worlds
-[00:16:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[00:16:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[00:16:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[00:22:22] [Server thread/INFO]: glsaenz lost connection: Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine
+[00:22:22] [Server thread/INFO]: glsaenz left the game
+[00:23:06] [User Authenticator #5/INFO]: UUID of player glsaenz is 689bb394-c159-4d90-88de-40c847736593
+[00:23:06] [Server thread/INFO]: glsaenz[/25.10.22.81:55689] logged in with entity id 195483 at (-113.1681518503747, 11.0, 44.86006398345166)
+[00:23:06] [Server thread/INFO]: glsaenz joined the game
+[01:12:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2162ms behind, skipping 43 tick(s)
+[01:13:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2112ms behind, skipping 42 tick(s)
+[01:14:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2331ms behind, skipping 46 tick(s)
+[01:14:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2120ms behind, skipping 42 tick(s)
+[01:15:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3187ms behind, skipping 63 tick(s)
+[01:15:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2157ms behind, skipping 43 tick(s)
+[01:15:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2030ms behind, skipping 40 tick(s)
+[01:16:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3267ms behind, skipping 65 tick(s)
+[01:16:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2434ms behind, skipping 48 tick(s)
+[01:16:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3432ms behind, skipping 68 tick(s)
+[01:16:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5187ms behind, skipping 103 tick(s)
+[01:17:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3339ms behind, skipping 66 tick(s)
+[01:17:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3748ms behind, skipping 74 tick(s)
+[01:17:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5626ms behind, skipping 112 tick(s)
+[01:17:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2507ms behind, skipping 50 tick(s)
+[01:28:56] [Server thread/INFO]: <glsaenz> TIMESET 4
+[01:29:07] [Server thread/INFO]: [esaenz28: Set the time to 4]
+[01:34:09] [Server thread/INFO]: esaenz28 has made the advancement [Enchanter]
+[01:36:58] [Server thread/INFO]: esaenz28 lost connection: Disconnected
+[01:36:58] [Server thread/INFO]: esaenz28 left the game
+[01:36:59] [Server thread/INFO]: glsaenz lost connection: Disconnected
+[01:36:59] [Server thread/INFO]: glsaenz left the game
+[01:37:24] [Server thread/INFO]: Stopping the server
+[01:37:24] [Server thread/INFO]: Stopping server
+[01:37:24] [Server thread/INFO]: Saving players
+[01:37:24] [Server thread/INFO]: Saving worlds
+[01:37:24] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:37:24] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:37:24] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[01:37:25] [Server Shutdown Thread/INFO]: Stopping server
+[01:37:25] [Server Shutdown Thread/INFO]: Saving players
+[01:37:25] [Server Shutdown Thread/INFO]: Saving worlds
+[01:37:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[01:37:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:37:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

@@ -355,6 +355,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2018-06-22 23:20:25 -0600",
       "bread": "2018-06-10 23:06:50 -0600",
       "cooked_chicken": "2018-06-21 15:31:20 -0600"
     },
@@ -690,6 +691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2018-06-22 22:58:51 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2018-06-10 22:22:18 -0600"
@@ -820,13 +827,21 @@
     "criteria": {
       "skeleton": "2018-06-16 10:48:15 -0600",
       "zombie": "2018-06-16 11:11:03 -0600",
-      "witch": "2018-06-21 14:59:03 -0600"
+      "witch": "2018-06-21 14:59:03 -0600",
+      "spider": "2018-06-23 00:52:16 -0600",
+      "creeper": "2018-06-22 23:21:24 -0600"
     },
     "done": false
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-21 15:02:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-06-23 01:34:09 -0600"
     },
     "done": true
   },
@@ -1370,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-06-22 22:58:51 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-06-12 22:38:31 -0600"
@@ -1440,7 +1461,10 @@
     "criteria": {
       "forest": "2018-06-10 22:20:09 -0600",
       "birch_forest": "2018-06-10 22:21:49 -0600",
+      "swampland": "2018-06-22 22:49:26 -0600",
+      "forest_hills": "2018-06-23 00:44:41 -0600",
       "extreme_hills": "2018-06-10 22:22:18 -0600",
+      "roofed_forest": "2018-06-23 01:18:16 -0600",
       "river": "2018-06-10 22:21:25 -0600"
     },
     "done": false
@@ -1538,6 +1562,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2018-06-12 23:20:26 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-06-22 23:21:21 -0600"
     },
     "done": true
   },
