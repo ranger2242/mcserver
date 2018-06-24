@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-06-23 21:05:26 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2018-06-21 15:22:42 -0600"
@@ -206,6 +212,15 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2018-06-21 15:22:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2018-06-23 23:39:22 -0600",
+      "diamond_helmet": "2018-06-23 23:39:22 -0600",
+      "diamond_chestplate": "2018-06-23 23:39:22 -0600",
+      "diamond_boots": "2018-06-23 23:39:22 -0600"
     },
     "done": true
   },
@@ -448,6 +463,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-06-10 23:06:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-06-23 21:05:26 -0600"
     },
     "done": true
   },
@@ -763,6 +784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-06-23 21:05:26 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-21 15:02:09 -0600"
@@ -827,6 +854,7 @@
     "criteria": {
       "skeleton": "2018-06-16 10:48:15 -0600",
       "zombie": "2018-06-16 11:11:03 -0600",
+      "silverfish": "2018-06-23 21:49:55 -0600",
       "witch": "2018-06-21 14:59:03 -0600",
       "spider": "2018-06-23 00:52:16 -0600",
       "creeper": "2018-06-22 23:21:24 -0600"
@@ -986,6 +1014,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-06-21 15:22:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-06-24 00:17:19 -0600"
     },
     "done": true
   },
@@ -1415,6 +1449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-06-23 21:05:26 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-06-12 22:38:31 -0600"
@@ -1462,7 +1502,9 @@
       "forest": "2018-06-10 22:20:09 -0600",
       "birch_forest": "2018-06-10 22:21:49 -0600",
       "swampland": "2018-06-22 22:49:26 -0600",
+      "extreme_hills_with_trees": "2018-06-24 00:21:40 -0600",
       "forest_hills": "2018-06-23 00:44:41 -0600",
+      "plains": "2018-06-24 00:13:59 -0600",
       "extreme_hills": "2018-06-10 22:22:18 -0600",
       "roofed_forest": "2018-06-23 01:18:16 -0600",
       "river": "2018-06-10 22:21:25 -0600"
@@ -1550,6 +1592,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2018-06-12 22:38:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-06-23 21:05:26 -0600"
     },
     "done": true
   },

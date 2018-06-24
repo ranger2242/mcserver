@@ -487,6 +487,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2018-06-24 00:04:52 -0600",
+      "bred_cow": "2018-06-24 00:03:32 -0600"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2018-06-06 23:23:31 -0600"
@@ -792,6 +799,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2018-06-22 23:32:59 -0600",
+      "slime": "2018-06-23 21:27:19 -0600",
       "skeleton": "2018-06-11 00:38:44 -0600",
       "zombie": "2018-06-10 15:42:46 -0600",
       "silverfish": "2018-06-10 22:49:46 -0600",
@@ -918,6 +926,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-06-18 00:02:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-06-23 21:15:17 -0600"
     },
     "done": true
   },
@@ -1062,6 +1076,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-06-18 00:02:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2018-06-23 21:15:17 -0600"
     },
     "done": true
   },
@@ -1227,6 +1247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-06-23 21:27:27 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-06-11 00:26:11 -0600"
@@ -1296,6 +1322,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-06-17 23:57:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2018-06-23 21:27:34 -0600"
     },
     "done": true
   },
@@ -1377,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-06-23 21:27:27 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-06-06 23:04:12 -0600"
@@ -1388,6 +1426,7 @@
       "forest": "2018-06-06 22:30:26 -0600",
       "swampland": "2018-06-06 23:15:51 -0600",
       "birch_forest": "2018-06-06 22:38:23 -0600",
+      "extreme_hills_with_trees": "2018-06-24 00:21:37 -0600",
       "mesa": "2018-06-13 00:42:40 -0600",
       "forest_hills": "2018-06-13 00:34:21 -0600",
       "plains": "2018-06-11 00:07:02 -0600",
@@ -1554,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2018-06-24 00:03:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2018-06-17 23:57:17 -0600"
@@ -1671,6 +1716,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-06-18 00:02:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2018-06-23 21:27:34 -0600"
     },
     "done": true
   }
